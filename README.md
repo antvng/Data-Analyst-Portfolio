@@ -16,7 +16,7 @@ Dans ce dépôt, tu trouveras des projets variés réalisés avec Python, SQL et
 Pour ce projet, j’ai utilisé Power BI pour analyser les données de l’entreprise fictive Northwind Traders. Le but était de créer un tableau de bord clair et interactif pour suivre les performances commerciales, les clients, les employés et les produits.
 - [Analyse commerciale – Northwind](https://github.com/antvng/Data-Analyst-Portfolio/tree/main/Projets/PowerBI/Northwind)
 
-  Skills utilisés : Power Query (Nettoyage de la donnée), DAX (Mesures personnalisées), Visualisation, UX/Design...
+  Skills utilisés : Power Query (Nettoyage de données), DAX (Mesures personnalisées), Visualisation, UX/Design...
 
 ---
 
